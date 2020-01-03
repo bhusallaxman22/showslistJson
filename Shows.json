@@ -750,7 +750,38 @@
 			"Status": "Returning",
 			"imdb": "Pretty Good",
             "link" : "https://123putlocker.info/series/daybreak/"
+		},
+	{
+			"tomato": "Adding Soon", 
+			"id": 72,
+            "name": "American Vandal", 
+			"Plot": "A true-crime satire that explores the aftermath of a costly high school prank that left twenty-seven faculty cars vandalized with phallic images.",
+			"No_Of_Current_Seasons": 2,
+			"Status": "Returning",
+			"imdb": "8.2",
+            "link" : "https://123putlocker.info/series/american-vandal/"
+		},
+	{
+			"tomato": "Adding Soon", 
+			"id": 73,
+            "name": "Unbreakable Kimmy Schmidt ", 
+			"Plot": "A woman is rescued from a doomsday cult and starts life over again in New York City.",
+			"No_Of_Current_Seasons": 2,
+			"Status": "Returning",
+			"imdb": "7.7",
+            "link" : "https://123putlocker.info/series/unbreakable-kimmy-schmidt/"
+		},
+	{
+			"tomato": "Adding Soon", 
+			"id": 74,
+            "name": "It's Bruno!", 
+			"Plot": "An old-school Brooklyn native devotes his days to caring for his adorable dog, Bruno, and making sure the neighbors show his pooch the proper respect.",
+			"No_Of_Current_Seasons": 1,
+			"Status": "Returning",
+			"imdb": "7.5",
+            "link" : "https://www.netflix.com/browse/genre/83?jbv=80999455&jbp=4&jbr=9"
 		}
+	
 		
 	]
 	
